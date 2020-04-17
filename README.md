@@ -9,5 +9,5 @@ application of the program as it suits him.
 ## Program layout
 * Initial appearance of the program at startup
 <p align="center">
-  <img src="./Player 2-4 DB/Dispalay1.png" alt="Initial appearance" width="738">
+  <img src="./Player 2-4 DB/Display1.png" alt="Initial appearance" width="738">
 </p>
